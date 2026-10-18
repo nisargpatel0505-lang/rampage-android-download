@@ -1,6 +1,6 @@
 # RAMPAGE for Android
 
-[Download RAMPAGE 2.0.0 APK](https://github.com/nisargpatel0505-lang/rampage-android-download/releases/download/v2.0.0/RAMPAGE-2.0.0-Android.apk)
+[Open the Android download page](https://nisargpatel0505-lang.github.io/rampage-android-download/) · [Direct APK](https://nisargpatel0505-lang.github.io/rampage-android-download/rampage.apk)
 
 Requires Android 11 or newer and OpenGL ES 3.0. Download the APK on your phone, open it and allow installation from your browser if Android asks. This is a signed sideload APK, not a Play Store listing.
 
@@ -15,6 +15,7 @@ Requires Android 11 or newer and OpenGL ES 3.0. Download the APK on your phone, 
 
 Use the left fire button with an index finger to shoot while both thumbs move and aim. Sensitivity, control size and graphics quality are adjustable in Settings.
 
-The APK build, signature and alignment were checked, and browser gameplay tests passed. Physical-phone installation and performance are not yet verified. If an older RAMPAGE installation uses a different signing key, Android will reject the update; removing that old installation would also erase its local progress.
+The APK build, signature and alignment were checked, browser gameplay tests passed, and installation succeeded on an Android 11 emulator. Physical-phone installation and performance are not yet verified. If an in-app download gets stuck at 100%, open the download page in Chrome and tap the completed APK from Downloads. If an older RAMPAGE installation uses a different signing key, Android will reject the update; removing that old installation would also erase its local progress.
 
 This repository distributes the APK and checksum. Source and signing material remain on the development laptop. Third-party notices ship inside the APK.
+
