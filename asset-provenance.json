@@ -1,0 +1,111 @@
+{
+  "scope": "Selected assets for the current Unity project; older download builds may use earlier procedural art.",
+  "humans": [
+    {
+      "role": "hero",
+      "sourceFile": "Casual.glb",
+      "creator": "Quaternius",
+      "source": "https://poly.pizza/m/kZ3DmIoGip",
+      "licence": "CC0-1.0",
+      "sha256": "fea7e71271203e7073f1a073fa1208de7402df276f87f80e149bf7589b5d46b4",
+      "adaptation": "Combined skinned meshes/materials, palette converted to vertex colours, forward axis normalized, six clips selected/renamed, original pistol added, portrait rendered."
+    },
+    {
+      "role": "grunt",
+      "sourceFile": "Hoodie.glb",
+      "creator": "Quaternius",
+      "source": "https://poly.pizza/m/gKLBoRsyKe",
+      "licence": "CC0-1.0",
+      "sha256": "0de1bcd789d409214cf82f66f61daeb53d2f7de6d914b23e7b3660bfb3dee61e",
+      "adaptation": "Combined skinned meshes/materials, palette converted to vertex colours, forward axis normalized, six clips selected/renamed, original pistol added, portrait rendered."
+    },
+    {
+      "role": "heavy",
+      "sourceFile": "SWAT.glb",
+      "creator": "Quaternius",
+      "source": "https://poly.pizza/m/Btfn3G5Xv4",
+      "licence": "CC0-1.0",
+      "sha256": "a835107bac833eb916c494e10997ae1709e85957ea6f6c59ace3c9a66f6d1fec",
+      "adaptation": "Combined skinned meshes/materials, palette converted to vertex colours, forward axis normalized, six clips selected/renamed, original pistol added, portrait rendered."
+    },
+    {
+      "role": "scout",
+      "sourceFile": "CasualWoman2.glb",
+      "creator": "Quaternius",
+      "source": "https://poly.pizza/m/qJ2gsTUBHL",
+      "licence": "CC0-1.0",
+      "sha256": "a2212729826b718e59e698211ed3951c22459b48733b1ee6a24fac0abf74dca8",
+      "adaptation": "Combined skinned meshes/materials, palette converted to vertex colours, forward axis normalized, six clips selected/renamed, original pistol added, portrait rendered."
+    }
+  ],
+  "environmentPacks": [
+    {
+      "name": "Downtown City MegaKit",
+      "version": "Standard FREE",
+      "creator": "Quaternius",
+      "source": "https://quaternius.com/packs/downtowncitymegakit.html",
+      "licence": "CC0-1.0",
+      "archive": "Quaternius_Downtown_City_MegaKit_Standard.zip",
+      "sha256": "5b1a945576d54cdbb4ccc9c3d52711e6d530da74c74c586407ecc28b165335da"
+    },
+    {
+      "name": "City Kit Roads",
+      "version": "2.2",
+      "creator": "Kenney",
+      "source": "https://kenney.nl/assets/city-kit-roads",
+      "licence": "CC0-1.0",
+      "archive": "kenney_city-kit-roads.zip",
+      "sha256": "374a4552115cbd11b4ec5c930ee31a533562dc78a09af249a655d03f7ea3b959"
+    },
+    {
+      "name": "Car Kit",
+      "version": "3.1",
+      "creator": "Kenney",
+      "source": "https://kenney.nl/assets/car-kit",
+      "licence": "CC0-1.0",
+      "archive": "kenney_car-kit.zip",
+      "sha256": "fac7dacac5c7874348cf19729af3ef205f3d366493edaf0a827d93f4fdf3d0c4"
+    },
+    {
+      "name": "Nature Kit",
+      "version": "2.1",
+      "creator": "Kenney",
+      "source": "https://kenney.nl/assets/nature-kit",
+      "licence": "CC0-1.0",
+      "archive": "kenney_nature-kit.zip",
+      "sha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d"
+    }
+  ],
+  "licenceFiles": [
+    {
+      "file": "notices/CC0-1.0.txt",
+      "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+      "sourceSha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+      "normalization": "CRLF line endings normalized to LF; licence text unchanged."
+    },
+    {
+      "file": "notices/Quaternius-Downtown-Standard-LICENSE.txt",
+      "sha256": "36c51fb08a9324abd5c2de457a1702f3b6233f09ee6ac412085f62d757fa7339",
+      "sourceSha256": "afac5819301671301c41e90402d26e4ade5e459ad58fdf77f142147410862f1f",
+      "normalization": "CRLF line endings normalized to LF; licence text unchanged."
+    },
+    {
+      "file": "notices/Kenney-City-Roads-2.2-LICENSE.txt",
+      "sha256": "ad241b75fee7fbd0e40f48b8569e3ca065f6ae741a01f1bd9e6472bf5b67dbd5",
+      "sourceSha256": "d23f51360ca2cd81711bc5b09ddfb28ac94da96d7ca2dbdef12c50f33f35c353",
+      "normalization": "CRLF line endings normalized to LF; licence text unchanged."
+    },
+    {
+      "file": "notices/Kenney-Car-Kit-3.1-LICENSE.txt",
+      "sha256": "847b37777af163f68fefce4e93fff3fb3333de5c4a9fcd3d96e92a589c6b648e",
+      "sourceSha256": "c33b7f6453d134deae7b1b8493717d9ccfa754c25ab97f6de89b88f8fda19b00",
+      "normalization": "CRLF line endings normalized to LF; licence text unchanged."
+    },
+    {
+      "file": "notices/Kenney-Nature-Kit-2.1-LICENSE.txt",
+      "sha256": "43ea674a3d6a859df1cbe997d72eac2b154cd03ac79b68f107166b201867ccfd",
+      "sourceSha256": "cb96b75e3560ac78d7a53ce6f083f4cdb5c53faea6141b62d63458dcfe1e4b9d",
+      "normalization": "CRLF line endings normalized to LF; licence text unchanged."
+    }
+  ]
+}
