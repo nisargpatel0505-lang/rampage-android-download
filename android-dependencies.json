@@ -1,8 +1,8 @@
 {
   "source": "Generated release Gradle package dependency graph",
-  "build": "First signed Unity RAMPAGE 3.0.0 APK",
-  "apkSha256": "8031b77ee48d0039cec3c2167c6fbae1e1178f46874def9d994cc06fe6c0a17c",
-  "scope": "Resolved runtime libraries, not a guarantee that all library classes survive packaging. Reconcile after dependency changes.",
+  "build": "Final signed Unity RAMPAGE 3.0.0 APK and AAB",
+  "apkSha256": "26a61edd84d1f09f42539c7032b5286854cea373cbb62acf225ee7ac2880b095",
+  "scope": "Resolved runtime Maven libraries, not a guarantee that all library classes survive packaging. Final Gradle graph has the same 59 coordinates and versions; all official POM hashes rechecked. Unity native runtime and NDK libc++ are covered separately in notices-manifest.json.",
   "dependencies": [
     {
       "coordinate": "androidx.activity:activity:1.6.0",
@@ -654,5 +654,9 @@
       ]
     }
   ],
-  "unresolvedLicences": []
+  "unresolvedLicences": [],
+  "originalCollectionApkSha256": "8031b77ee48d0039cec3c2167c6fbae1e1178f46874def9d994cc06fe6c0a17c",
+  "aabSha256": "b8ce5dfd86843509bcc21364bf5c8ac0d17cfaf70e55eacf4306355bce6cb015",
+  "lastReconciled": "2026-10-19",
+  "resolutionUnchangedFromOriginalCollection": true
 }

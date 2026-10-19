@@ -106,5 +106,34 @@
     "version": "2.6.0",
     "file": "notices/com.unity.ugui-2.6.0-LICENSE.md",
     "sha256": "3f8833f9736c0b5db5076663ba5abb0a33606712fa9128456ac834fc9d43fdd6"
+  },
+  {
+    "package": "unity.android-player",
+    "version": "6000.6.6f1",
+    "file": "notices/Unity-Player-Android-IL2CPP-6000.6.6f1-Third-Party-Notices.pdf",
+    "source": "https://unity.com/releases/editor/whats-new/6000.6.6f1#third-party-notices",
+    "sourceFile": "https://storage.googleapis.com/live-platform-resources-prd/templates/assets/Player_Android_IL_2_CPP_6000_6_6f1_741df25ede/Player_Android_IL_2_CPP_6000_6_6f1_741df25ede.pdf",
+    "unityRevision": "d20c9ac777da",
+    "scope": "Unchanged vendor Android IL2CPP Player notice bundle. Vendor inventory can include optional components not used by this game.",
+    "sha256": "fe18a7a01c2017c4ddea84d9352e65709c6f7eb468be572b01355fe78598dc8d"
+  },
+  {
+    "package": "android.ndk.libcxx",
+    "version": "r27c / 27.2.12479018",
+    "file": "notices/NDK-r27c-libc++-libc++abi-LICENSE.txt",
+    "source": "Android NDK r27c NOTICE.toolchain",
+    "sourceDocumentation": "https://developer.android.com/ndk/guides/cpp-support",
+    "sourceFileSha256": "cbe3237be53c0a819f8df6aac5358fdee848eee3b6571b4e2ca20767ebd7465e",
+    "sourceByteRangeHalfOpen": [
+      127769,
+      161180
+    ],
+    "sourceLFLineRangeInclusive": [
+      2425,
+      3048
+    ],
+    "extraction": "Two complete adjacent libc++ and libc++abi licence sections copied byte-for-byte. Includes Apache-2.0 WITH LLVM-exception and legacy licence text.",
+    "scope": "Packaged libc++_shared.so build ID matches the installed NDK r27c runtime: b04675a35ad96f8a9dcaa073e3bd31d4536f00ad.",
+    "sha256": "a7b5452985cf0a1776c3c21198801464da7f2e173d14c95d7926c8b8c28b3723"
   }
 ]
