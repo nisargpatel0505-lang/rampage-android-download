@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://www.gstatic.com https://apis.google.com; connect-src 'self' https://identitytoolkit.googleapis.com https://securetoken.googleapis.com https://www.googleapis.com; frame-src https://rampage-arcade-0505.firebaseapp.com https://accounts.google.com; style-src 'self'; img-src 'self' data: https://*.googleusercontent.com; object-src 'none'; base-uri 'none'; form-action 'none'; upgrade-insecure-requests">
+  <meta name="description" content="Delete your RAMPAGE account online or request deletion by email. You do not need to reinstall the game.">
+  <title>RAMPAGE — Delete your account</title><link rel="stylesheet" href="policy.css">
+  <script type="module" src="account-deletion.mjs"></script>
+</head>
+<body><main>
+  <header><div class="brand">RAMPAGE / CITY AFTERGLOW</div><h1>Delete your RAMPAGE account</h1>
+    <p class="lede">Delete your RAMPAGE sign-in identity here, or send a request by email. You do not need to install the game to make a request.</p>
+    <nav aria-label="Policy navigation"><a href="privacy.html">Privacy policy</a><a href="#email-request">Request by email</a><a href="./">Downloads</a></nav>
+  </header>
+  <section class="card" aria-labelledby="web-title"><h2 id="web-title">Verify with Google</h2>
+    <p>Choose the same Google account you used in RAMPAGE. You will see the account before confirming deletion. Your Google account and local game progress will stay intact.</p>
+    <div id="verification">
+      <label class="check"><input id="intent" type="checkbox"><span>I want to delete the RAMPAGE account for the Google account I select. If verification creates a temporary RAMPAGE identity because no account exists, remove that temporary identity automatically.</span></label>
+      <div class="actions"><button id="verify" class="google-button" aria-label="Sign in with Google" disabled><img src="google-signin-approved.png" alt="Sign in with Google"></button></div>
+    </div>
+    <div id="confirmation" hidden>
+      <p>RAMPAGE account selected:</p><p id="identity" class="identity"></p>
+      <p>This permanently deletes this account’s RAMPAGE authentication record and profile information. To use Google sign-in later, you would create a new RAMPAGE identity.</p>
+      <label class="check"><input id="confirm-intent" type="checkbox"><span>I confirm that I want to delete the RAMPAGE identity shown above.</span></label>
+      <div class="actions"><button id="delete" class="danger" disabled>Delete my RAMPAGE account</button><button id="cancel" class="secondary">Cancel and sign out</button></div>
+    </div>
+    <p id="status" class="status" role="status" aria-live="polite">Loading secure verification… You can also use the email option below.</p>
+    <noscript><p>Web verification needs JavaScript. You can request deletion using the email address below.</p></noscript>
+  </section>
+  <section id="email-request" class="card"><h2>Request deletion by email</h2>
+    <p>Email <a href="mailto:nisargpatel0505@gmail.com?subject=RAMPAGE%20account%20deletion%20request&amp;body=Please%20delete%20my%20RAMPAGE%20sign-in%20account.%20I%20am%20sending%20this%20request%20from%20the%20email%20associated%20with%20that%20account.">nisargpatel0505@gmail.com</a> with the subject <strong>RAMPAGE account deletion request</strong>. Where possible, send it from the email you used to sign in to RAMPAGE. You can copy this address into any email service if the link does not open your mail app.</p>
+    <p>The developer may ask you to verify ownership before deleting an account and will confirm the outcome by email. A request is not completed merely by opening this page. Do not include passwords, authentication tokens or sign-in codes.</p>
+  </section>
+  <section><h2>What deletion removes</h2><p>Deletion removes the Firebase Authentication identity used by RAMPAGE, including its associated email, display name, provider profile information and Firebase user ID. This version has no cloud campaign data. Firebase states that authentication data is removed from live and backup systems within 180 days after deletion is initiated; authentication IP logs are retained for a few weeks. See <a href="https://firebase.google.com/support/privacy">Firebase’s retention information</a>.</p></section>
+  <section><h2>What stays on your phone</h2><p>Your coins, upgrades, mission history, tutorial progress and settings are saved locally and are independent of the account. To erase them, use Android <strong>Settings → Apps → RAMPAGE → Storage → Clear storage</strong>. This permanently resets local progress on that device. Review your Android backup settings separately. Deleting RAMPAGE’s identity does not delete your Google account.</p></section>
+  <section><h2>From the game</h2><p>You can also open the signed-in account button on the RAMPAGE home screen, select <strong>Delete account</strong>, and confirm. An internet connection and a recent sign-in may be required.</p></section>
+  <footer>RAMPAGE Studio · Updated 19 October 2026 · <a href="privacy.html">Privacy policy</a> · <a href="notices.html">Software and asset notices</a></footer>
+</main></body></html>

@@ -1,0 +1,15 @@
+RAMPAGE original procedural audio
+
+These WAV files were created specifically for this project from mathematical
+oscillators, envelopes and seeded noise. No recorded performances, downloaded
+samples, game music, PUBG audio or Mob Control audio were used.
+
+The original generated WAV assets and their generation script may be used,
+modified and redistributed with this game and other projects without attribution.
+To the extent any copyright applies to this generated material, the contributor
+dedicates it to the public domain under CC0 1.0:
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Composition: City Afterglow, original 64-second instrumental loop, 120 BPM.
+Generation source: Scripts/Audio/Tools~/generate_audio.py
+The NumPy dependency is used only offline to generate assets, not shipped in the app.

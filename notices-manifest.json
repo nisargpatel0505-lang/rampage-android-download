@@ -1,0 +1,110 @@
+[
+  {
+    "package": "com.unity.ai.navigation",
+    "version": "2.0.16",
+    "file": "notices/com.unity.ai.navigation-2.0.16-LICENSE.md",
+    "sha256": "2b2113e0522b3eaa9e701d70956f9affaccac7e79d99b6029903bcec7139590e"
+  },
+  {
+    "package": "com.unity.cinemachine",
+    "version": "6.6.0",
+    "file": "notices/com.unity.cinemachine-6.6.0-LICENSE.md",
+    "sha256": "d230a6127c9f61f68e34821e6cfb7f2e72a7d1dfe523a5e6da89e37ca5f9fa07"
+  },
+  {
+    "package": "com.unity.cinemachine",
+    "version": "6.6.0",
+    "file": "notices/com.unity.cinemachine-6.6.0-license.txt",
+    "sha256": "46ba23bc2197fa1c7ff5e35c2a5bb04861cdb6ac76a7b9197d776a30e56a3595"
+  },
+  {
+    "package": "com.unity.cinemachine",
+    "version": "6.6.0",
+    "file": "notices/com.unity.cinemachine-6.6.0-Third_Party_Notices.md",
+    "sha256": "b1d297db15dea9d4ba6f6c8487f3469677b1b27e615267092634e6e89c75fb4a"
+  },
+  {
+    "package": "com.unity.ext.nunit",
+    "version": "2.1.0",
+    "file": "notices/com.unity.ext.nunit-2.1.0-LICENSE.md",
+    "sha256": "3622d79bb4de21087d36ba91bcc84816e6fc2ace098e17eb431b9e1dfb6dde32"
+  },
+  {
+    "package": "com.unity.ext.nunit",
+    "version": "2.1.0",
+    "file": "notices/com.unity.ext.nunit-2.1.0-Third_Party_Notices.md",
+    "sha256": "ef37b1ccbae5e9b641482cbd77a74ee96193a39d232cc8d856b9044f37db9244"
+  },
+  {
+    "package": "com.unity.inputsystem",
+    "version": "1.20.1",
+    "file": "notices/com.unity.inputsystem-1.20.1-LICENSE.md",
+    "sha256": "419718e59cd6c1f9c3ed80bd004394504bed368c23ad8665cce1792a33c8a02c"
+  },
+  {
+    "package": "com.unity.mathematics",
+    "version": "1.4.0",
+    "file": "notices/com.unity.mathematics-1.4.0-LICENSE.md",
+    "sha256": "5b1a26ff2ca6e6e7d9fd2b6df151e1a43c671fdf49c05dcee1227f20dcf25fde"
+  },
+  {
+    "package": "com.unity.nuget.mono-cecil",
+    "version": "1.11.6",
+    "file": "notices/com.unity.nuget.mono-cecil-1.11.6-LICENSE.md",
+    "sha256": "76101254034fbea9afc4169e98ce15382b0f130e3bf15e7da1ca599d940e1cda"
+  },
+  {
+    "package": "com.unity.nuget.mono-cecil",
+    "version": "1.11.6",
+    "file": "notices/com.unity.nuget.mono-cecil-1.11.6-Third_Party_Notices.md",
+    "sha256": "99966d24b32096a2a1963d9ccec993cf1c729fafd359179ee727762b2dd2b4ba"
+  },
+  {
+    "package": "com.unity.nuget.newtonsoft-json",
+    "version": "3.2.2",
+    "file": "notices/com.unity.nuget.newtonsoft-json-3.2.2-LICENSE.md",
+    "sha256": "a5177bfecfea04d225e4a26a631db86721a03b4080350867847e71dc26b44f85"
+  },
+  {
+    "package": "com.unity.nuget.newtonsoft-json",
+    "version": "3.2.2",
+    "file": "notices/com.unity.nuget.newtonsoft-json-3.2.2-Third_Party_Notices.md",
+    "sha256": "f07d2ea4af53fd1c9800b345bb4fbfa3ab0181d8c87625d6c265cd65142df097"
+  },
+  {
+    "package": "com.unity.pipeline",
+    "version": "0.8.0-exp.1",
+    "file": "notices/com.unity.pipeline-0.8.0-exp.1-LICENSE.md",
+    "sha256": "35d72abfdaec2a1a80a565885ef9a92f10f78de3266ce769f9a76c17c9c45dbf"
+  },
+  {
+    "package": "com.unity.pipeline",
+    "version": "0.8.0-exp.1",
+    "file": "notices/com.unity.pipeline-0.8.0-exp.1-Third_Party_Notices.md",
+    "sha256": "edb1f62b93337299b1c1f94282026d36b7da976f3201588bd772e6b0e7f2b3dd"
+  },
+  {
+    "package": "com.unity.settings-manager",
+    "version": "2.1.1",
+    "file": "notices/com.unity.settings-manager-2.1.1-LICENSE.md",
+    "sha256": "a3e5f04ac956baf993de51da35968ce8721ad3684952ce0160e1af1e7bda5739"
+  },
+  {
+    "package": "com.unity.splines",
+    "version": "2.9.1",
+    "file": "notices/com.unity.splines-2.9.1-LICENSE.md",
+    "sha256": "1de0a79eecd1732049e1110216f1ad735fec4e965a8a7b2fd2e63e339cbfb6c1"
+  },
+  {
+    "package": "com.unity.test-framework",
+    "version": "1.8.0",
+    "file": "notices/com.unity.test-framework-1.8.0-LICENSE.md",
+    "sha256": "d3b09e9683afbc8d468a83000308f18e7133eaf7879af870747000a66e3c0693"
+  },
+  {
+    "package": "com.unity.ugui",
+    "version": "2.6.0",
+    "file": "notices/com.unity.ugui-2.6.0-LICENSE.md",
+    "sha256": "3f8833f9736c0b5db5076663ba5abb0a33606712fa9128456ac834fc9d43fdd6"
+  }
+]
