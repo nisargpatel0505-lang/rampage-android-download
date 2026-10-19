@@ -103,7 +103,7 @@
     },
     {
       "file": "notices/Kenney-Nature-Kit-2.1-LICENSE.txt",
-      "sha256": "43ea674a3d6a859df1cbe997d72eac2b154cd03ac79b68f107166b201867ccfd",
+      "sha256": "4332edb6f10c93137fb9f322e8f4089bdcfe837ebc5876a54365ea2dbdd7cc05",
       "sourceSha256": "cb96b75e3560ac78d7a53ce6f083f4cdb5c53faea6141b62d63458dcfe1e4b9d",
       "normalization": "CRLF line endings normalized to LF; licence text unchanged."
     }
