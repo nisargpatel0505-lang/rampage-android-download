@@ -1,8 +1,8 @@
 {
   "source": "Generated release Gradle package dependency graph",
-  "build": "Final signed Unity RAMPAGE 3.0.0 APK and AAB",
-  "apkSha256": "26a61edd84d1f09f42539c7032b5286854cea373cbb62acf225ee7ac2880b095",
-  "scope": "Resolved runtime Maven libraries, not a guarantee that all library classes survive packaging. Final Gradle graph has the same 59 coordinates and versions; all official POM hashes rechecked. Unity native runtime and NDK libc++ are covered separately in notices-manifest.json.",
+  "build": "Unity RAMPAGE 3.0.1 APK and AAB",
+  "apkSha256": "19b230453db052686af14b593256b97d987ed9d174115a8cb3b21f0825efcb10",
+  "scope": "Resolved runtime Maven libraries, not a guarantee that all library classes survive packaging. The 3.0.1 APK/AAB use the same 59 coordinates and versions as 3.0.0; the official POM hashes were verified during that baseline reconciliation. Unity native runtime and NDK libc++ are covered separately in notices-manifest.json.",
   "dependencies": [
     {
       "coordinate": "androidx.activity:activity:1.6.0",
@@ -656,7 +656,19 @@
   ],
   "unresolvedLicences": [],
   "originalCollectionApkSha256": "8031b77ee48d0039cec3c2167c6fbae1e1178f46874def9d994cc06fe6c0a17c",
-  "aabSha256": "b8ce5dfd86843509bcc21364bf5c8ac0d17cfaf70e55eacf4306355bce6cb015",
+  "aabSha256": "086250485c82c84126b34536b31faa75e3cc5c436a5159698738155a942b6af5",
   "lastReconciled": "2026-10-19",
-  "resolutionUnchangedFromOriginalCollection": true
+  "resolutionUnchangedFromOriginalCollection": true,
+  "releaseHistory": [
+    {
+      "version": "3.0.0",
+      "versionCode": 30000,
+      "apkSha256": "26a61edd84d1f09f42539c7032b5286854cea373cbb62acf225ee7ac2880b095",
+      "aabSha256": "b8ce5dfd86843509bcc21364bf5c8ac0d17cfaf70e55eacf4306355bce6cb015",
+      "reconciliationDate": "2026-10-19",
+      "status": "Historical immutable artifacts retained; navigation correction released separately as 3.0.1."
+    }
+  ],
+  "releaseVersion": "3.0.1",
+  "versionCode": 30001
 }
